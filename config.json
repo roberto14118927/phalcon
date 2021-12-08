@@ -1,0 +1,12 @@
+{
+    "db": {
+        "dbname": "autogestion",
+        "host": "localhost",
+        "username": "coppel",
+        "password": "123456"
+    },
+    "uriException": [],
+    "auth": "https://sso.coppel.io:50061/api/v1/verify",
+    "authDev": "https://sso-test.coppel.io:50061/api/v1/verify",
+    "soaAH": "http://pbatelefonicas.coppel.com:20622/soa/autentificaHuella/autentificaHuella?wsdl"
+}

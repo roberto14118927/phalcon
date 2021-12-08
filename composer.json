@@ -1,0 +1,29 @@
+{
+    "name": "coppel/rac",
+    "description": "",
+    "type": "library",
+    "license": "propietary",
+    "authors": [
+        {
+            "name": "",
+            "email": "sistemasprogramacion@coppel.com"
+        }
+    ],
+    "require": {
+        "oc/rac": "^1.0.0",
+        "katzgrau/klogger": "^1.2.1",
+        "nategood/httpful": "^0.2.20"
+    },
+    "repositories": [
+        {
+            "packagist.org": false
+        },
+        {
+            "type": "composer",
+            "url": "http://registry.coppel.io:8081/repository/composer"
+        }
+    ],
+    "config": {
+        "secure-http" : false
+    }
+}
