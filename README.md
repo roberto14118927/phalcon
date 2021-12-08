@@ -16,7 +16,7 @@
 
 # Manejo de docker dentro de Phalcon
 
-``` Realizar la imagen de docker para coppel , cumpliendo los estandares 
+- Realizar la imagen de docker para coppel , cumpliendo los estandares 
 
 
 
