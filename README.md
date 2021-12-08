@@ -1,5 +1,7 @@
 # Puntos a trabajar
-
+* Ambientación 
+* Base de datos SQLSERVER Y MONGO(PENDIENTE)
+    - Estructura ORM 
 * Seguridad app
 * Manejo de seguridad en las url no visibles
 * Integración de las variables de entorno acceso a base de datos 
